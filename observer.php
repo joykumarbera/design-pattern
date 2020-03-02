@@ -1,7 +1,7 @@
 <?php
 
 /**
- * a simple implementation of the observer pattern
+ * a simple implementation of the observer pattern for dev
  */
 
 interface SubjectInterface
